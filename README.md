@@ -1,6 +1,6 @@
 # js-by-example
 
-[^]: Understanding  JavaScript by working .examples
+Understanding  JavaScript by examples
 
 1. Web Worker
 
